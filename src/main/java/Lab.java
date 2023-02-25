@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * Queues are FIFO - first in, first out, like a checkout line. They are used in algorithms where it is needed to keep
  * track of the order that the elements were inserted in. For instance, tech support tickets may be
- * waiting in a queue until a tech support specialist can clear them.
+ * waiting in a queue until a tech support specialist can clear them. 
  * 
  * For instance, 
  * adding to back of the queue:
